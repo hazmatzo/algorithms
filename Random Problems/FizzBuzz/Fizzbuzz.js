@@ -1,6 +1,11 @@
+// Print all numbers under 100, if the number is divisible by 3, print "Fizz,"
+// if the number is divisible by 5, print "Buzz," if it's divisible by both,
+// print "FizzBuzz". First attempt in Javascript.
+// Zoe Madden-Wood
+
 var Fizzbuzz = [1];
 
-var Fizz { 
+var Fizz(testInteger) { 
   var remainder = testInteger / 3;
     if (remainder === 0)
         return true
