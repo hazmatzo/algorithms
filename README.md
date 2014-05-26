@@ -1,1 +1,1 @@
-This algorithms folder contains my work with algorithms. It contains the Euler problems as I work through the solutions of them, as well as random problems I've solved that are independent of a large project. Many of the problems will have multiple versions, the later ones are the refactored versions.
+This algorithms folder contains some problems I solved. 
